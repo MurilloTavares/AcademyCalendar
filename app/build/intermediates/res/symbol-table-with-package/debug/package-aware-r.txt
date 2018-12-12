@@ -678,6 +678,8 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_cadastrar
+id btn_login
 id buttonPanel
 id center
 id center_horizontal
@@ -738,6 +740,9 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id radioGroup
+id radio_aluno
+id radio_professor
 id right
 id right_icon
 id right_side
@@ -785,6 +790,10 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txt_email
+id txt_nome
+id txt_senha
+id txt_senhaConf
 id uniform
 id up
 id useLogo
