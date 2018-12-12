@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <!-- Main -->
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,9 +18,18 @@
             </intent-filter>
         </activity>
 
+        <!-- Cadastrar -->
         <activity android:name=".CadastrarActivity">
             <intent-filter>
                 <action android:name=".CadastrarActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Calendario -->
+        <activity android:name=".CalendarioActivity">
+            <intent-filter>
+                <action android:name=".CalendarioActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>

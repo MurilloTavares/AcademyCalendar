@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+
+        <!-- Main -->
         <activity android:name="br.edu.ifpb.academycalendar.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,9 +27,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Cadastrar -->
         <activity android:name="br.edu.ifpb.academycalendar.CadastrarActivity" >
             <intent-filter>
                 <action android:name=".CadastrarActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Calendario -->
+        <activity android:name="br.edu.ifpb.academycalendar.CalendarioActivity" >
+            <intent-filter>
+                <action android:name=".CalendarioActivity" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
