@@ -45,6 +45,15 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!-- Add evento -->
+        <activity android:name="br.edu.ifpb.academycalendar.NovoEventoActivity" >
+            <intent-filter>
+                <action android:name=".NovoEventoActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
