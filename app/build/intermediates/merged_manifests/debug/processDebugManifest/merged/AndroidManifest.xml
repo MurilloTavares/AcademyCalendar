@@ -54,6 +54,15 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!-- Turmas -->
+        <activity android:name="br.edu.ifpb.academycalendar.TurmasActivity" >
+            <intent-filter>
+                <action android:name=".TurmasActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
