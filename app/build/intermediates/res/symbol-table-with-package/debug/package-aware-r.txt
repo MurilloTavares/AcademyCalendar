@@ -766,6 +766,14 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id novaturma_btn_addcampo
+id novaturma_btn_cancelar
+id novaturma_btn_salvar
+id novaturma_txt_email1
+id novaturma_txt_email2
+id novaturma_txt_email3
+id novaturma_txt_email4
+id novaturma_txt_novaturma
 id packed
 id parent
 id parentPanel
@@ -824,6 +832,10 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id turmas_btn_cancelar
+id turmas_btn_criar
+id turmas_scrollview
+id tx
 id txt_descricao
 id txt_dia
 id txt_email
@@ -880,6 +892,7 @@ layout abc_tooltip
 layout activity_cadastrar
 layout activity_calendario
 layout activity_main
+layout activity_nova_turma
 layout activity_novo_evento
 layout activity_turmas
 layout list_group

@@ -54,6 +54,15 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!-- Nova Turma -->
+        <activity android:name=".NovaTurmaActivity">
+            <intent-filter>
+                <action android:name=".NovaTurmaActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
