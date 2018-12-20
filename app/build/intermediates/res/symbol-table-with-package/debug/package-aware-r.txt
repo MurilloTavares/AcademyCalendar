@@ -773,6 +773,7 @@ id novaturma_txt_email1
 id novaturma_txt_email2
 id novaturma_txt_email3
 id novaturma_txt_email4
+id novaturma_txt_nometurma
 id novaturma_txt_novaturma
 id packed
 id parent
@@ -839,9 +840,9 @@ id tx
 id txt_descricao
 id txt_dia
 id txt_email
+id txt_fim
 id txt_horario
 id txt_inicio
-id txt_inicio2
 id txt_list_header
 id txt_list_item
 id txt_nome
