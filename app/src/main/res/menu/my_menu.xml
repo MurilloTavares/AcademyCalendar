@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_filtro"
+        android:icon="@drawable/ic_eye"
+        android:title="Filtro"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_turmas"
+        android:title="Turmas"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_perfil"
+        android:title="Perfil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sair"
+        android:title="Sair"
+        app:showAsAction="never" />
+
+</menu>
