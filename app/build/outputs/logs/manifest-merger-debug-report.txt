@@ -1,206 +1,313 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/62b7abe41bca0791debcfcf4667ebad1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92353252d95b9272f64b933574c87857/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b5d87ee0d3a4ff28588b334d1f377050/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a375fd3d536658a1fdc0ea2e3c261d1d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67083f5c71ba9e133e8c088133a0fa7c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5ce1b7a67f82bfae12812365c9295767/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ec8cec2a846709a2d801201ff10891/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b3812dc639ffde6c69f546b5bac0ddf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5d4c9a4800f3768dae7d942c05cf52cd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc9b4a8530e5bf8bc82bfb13605bc559/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/20c4162ce42f2d700e6c7f16e26e54da/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a80b36a6a8249ff99618fae5267f4b9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88e77041b8043b1ffaf92c5e73348ded/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a39efce5cab902284b360b5d2ddf6e4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54b40d04e7cfe1bba0348abd58fc1c62/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/99d7f40669a4ce05c22d5f83ebf3c9e5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0d17affc44637ab5eb8410094a3aad02/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/12b73d46eea271aea9d38049634fc38a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63adedcf241c17020750413993af2fa2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18420b7157d9140253c4593bd9f1724/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06d4fa803724fcd549554b62bfc881a6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/601ee95a96b8eaf831fb837c2891f27e/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2e8ec3a309291f2b8b7efaa14d21fbd2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5bb301ea94c94a65ed945f54083589a7/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e632dd0c832f707d34ec3fbb74818093/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d840ff980b5f6864945af3969f98925b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc0d2c55552e423db6bb3967fa935d1b/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5ff6a6d52da5eec85c4f26dee590f419/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f50b095a89aedbcebb4701638a8b3590/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7f7363b06fe54a4179a035edf98327cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/f8dc961716df0ce703482dedc8022d0f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b146aab1eab7745e39d932aaaadb8a55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/ddca29ea36bfbb4ed7a6166c924b095b/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4e0ab22dedc579df8bb510d0d8b6e07c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b843bcd0edb387dd4c968be002572f39/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/50fb2c84530040079ecb67c9266fdb35/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/52a18fba20883d19f7c6272af53447c1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/64c0a5e47961ec73573f18749378026d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9910b92bcf177e656710885268ab985a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c42064f96e2fe0008d3c717bb85ead12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8487f9cdc80b10db88e1f899ef6b0785/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/33f0fbd26b99e1a4860d9516d200d3e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/824eafc5cb5743aefb33cc0149354753/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0713568bb46b3b66d8812d2109073f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/799a4983e8512f6dfd884672f43b1eec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e7aaee341f3a314c5f50b69412000099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/16c131eacee1bf18a5cfc410fbba8b4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/290ac7fa0bf6083154a1c04e20eca8a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a51df921316052499946286f60620164/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31577317f1f5323ae4051eda40af8dde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/08ab601ac235df98fa416226b1fddb51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/90eb097801974c424f54b2c48b4c27d5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cd784b7c2395105634bddbae74c73156/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f17b5811dd342465549583b5fc5c08db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/caee56fedefb92ddf19a25371d203ead/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3b7adc3db4eb99b2297aa1031209003a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb79ce1af9936cef4bc09fff567de609/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0e9a59e37500be4177f42b54e4d40f2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce55230690ea410f63ee8712b20f817d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8e3ed0e3982a27dc7b498a2b8cb9ade8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/486e103570f16f37a4aa9078b2fc49fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f86247bb33c01e1746c940d0db38bc30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/78c62a4ac74fdcefcaae2e4fd8deea20/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
 	package
 		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:1-70:12
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:5:5-66:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92353252d95b9272f64b933574c87857/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92353252d95b9272f64b933574c87857/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0d17affc44637ab5eb8410094a3aad02/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0d17affc44637ab5eb8410094a3aad02/AndroidManifest.xml:22:5-23:19
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:7:5-68:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f50b095a89aedbcebb4701638a8b3590/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f50b095a89aedbcebb4701638a8b3590/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/f8dc961716df0ce703482dedc8022d0f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/f8dc961716df0ce703482dedc8022d0f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/ddca29ea36bfbb4ed7a6166c924b095b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/ddca29ea36bfbb4ed7a6166c924b095b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4e0ab22dedc579df8bb510d0d8b6e07c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4e0ab22dedc579df8bb510d0d8b6e07c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b843bcd0edb387dd4c968be002572f39/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b843bcd0edb387dd4c968be002572f39/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/50fb2c84530040079ecb67c9266fdb35/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/50fb2c84530040079ecb67c9266fdb35/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/52a18fba20883d19f7c6272af53447c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/52a18fba20883d19f7c6272af53447c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/64c0a5e47961ec73573f18749378026d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/64c0a5e47961ec73573f18749378026d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/90eb097801974c424f54b2c48b4c27d5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/90eb097801974c424f54b2c48b4c27d5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/78c62a4ac74fdcefcaae2e4fd8deea20/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/78c62a4ac74fdcefcaae2e4fd8deea20/AndroidManifest.xml:22:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:13:9-40
 activity#br.edu.ifpb.academycalendar.MainActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:14:19-47
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:20:27-74
 activity#br.edu.ifpb.academycalendar.CadastrarActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:23:9-29:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:23:19-52
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:25:19-52
 intent-filter#action:name:.CadastrarActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:26:13-30:29
 action#br.edu.ifpb.academycalendar.CadastrarActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:25:17-61
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:27:17-61
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:25:25-58
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:27:25-58
 category#android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:27:17-76
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:27:27-73
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:29:27-73
 activity#br.edu.ifpb.academycalendar.CalendarioActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:32:9-38:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:34:9-40:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:32:19-53
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:34:19-53
 intent-filter#action:name:.CalendarioActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:33:13-37:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:35:13-39:29
 action#br.edu.ifpb.academycalendar.CalendarioActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:34:17-62
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:36:17-62
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:34:25-59
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:36:25-59
 activity#br.edu.ifpb.academycalendar.NovoEventoActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:41:9-47:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:43:9-49:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:41:19-53
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:43:19-53
 intent-filter#action:name:.NovoEventoActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:42:13-46:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:44:13-48:29
 action#br.edu.ifpb.academycalendar.NovoEventoActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:43:17-62
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:45:17-62
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:43:25-59
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:45:25-59
 activity#br.edu.ifpb.academycalendar.TurmasActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:50:9-56:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:52:9-58:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:50:19-49
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:52:19-49
 intent-filter#action:name:.TurmasActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:51:13-55:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:53:13-57:29
 action#br.edu.ifpb.academycalendar.TurmasActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:52:17-58
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:54:17-58
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:52:25-55
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:54:25-55
 activity#br.edu.ifpb.academycalendar.NovaTurmaActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:59:9-65:20
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:61:9-67:20
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:59:19-52
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:61:19-52
 intent-filter#action:name:.NovaTurmaActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:60:13-64:29
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:62:13-66:29
 action#br.edu.ifpb.academycalendar.NovaTurmaActivity
-ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:61:17-61
+ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:63:17-61
 	android:name
-		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:61:25-58
+		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml:63:25-58
 uses-sdk
 INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/62b7abe41bca0791debcfcf4667ebad1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/62b7abe41bca0791debcfcf4667ebad1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92353252d95b9272f64b933574c87857/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92353252d95b9272f64b933574c87857/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b5d87ee0d3a4ff28588b334d1f377050/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b5d87ee0d3a4ff28588b334d1f377050/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a375fd3d536658a1fdc0ea2e3c261d1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a375fd3d536658a1fdc0ea2e3c261d1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67083f5c71ba9e133e8c088133a0fa7c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67083f5c71ba9e133e8c088133a0fa7c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5ce1b7a67f82bfae12812365c9295767/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5ce1b7a67f82bfae12812365c9295767/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ec8cec2a846709a2d801201ff10891/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ec8cec2a846709a2d801201ff10891/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b3812dc639ffde6c69f546b5bac0ddf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b3812dc639ffde6c69f546b5bac0ddf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5d4c9a4800f3768dae7d942c05cf52cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5d4c9a4800f3768dae7d942c05cf52cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc9b4a8530e5bf8bc82bfb13605bc559/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc9b4a8530e5bf8bc82bfb13605bc559/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/20c4162ce42f2d700e6c7f16e26e54da/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/20c4162ce42f2d700e6c7f16e26e54da/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a80b36a6a8249ff99618fae5267f4b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a80b36a6a8249ff99618fae5267f4b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88e77041b8043b1ffaf92c5e73348ded/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88e77041b8043b1ffaf92c5e73348ded/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a39efce5cab902284b360b5d2ddf6e4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a39efce5cab902284b360b5d2ddf6e4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54b40d04e7cfe1bba0348abd58fc1c62/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54b40d04e7cfe1bba0348abd58fc1c62/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/99d7f40669a4ce05c22d5f83ebf3c9e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/99d7f40669a4ce05c22d5f83ebf3c9e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf4557d073e1f07d143a6e8bd8364fda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0d17affc44637ab5eb8410094a3aad02/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0d17affc44637ab5eb8410094a3aad02/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/12b73d46eea271aea9d38049634fc38a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/12b73d46eea271aea9d38049634fc38a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63adedcf241c17020750413993af2fa2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63adedcf241c17020750413993af2fa2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18420b7157d9140253c4593bd9f1724/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18420b7157d9140253c4593bd9f1724/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06d4fa803724fcd549554b62bfc881a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06d4fa803724fcd549554b62bfc881a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/601ee95a96b8eaf831fb837c2891f27e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/601ee95a96b8eaf831fb837c2891f27e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2e8ec3a309291f2b8b7efaa14d21fbd2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2e8ec3a309291f2b8b7efaa14d21fbd2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5bb301ea94c94a65ed945f54083589a7/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5bb301ea94c94a65ed945f54083589a7/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e632dd0c832f707d34ec3fbb74818093/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e632dd0c832f707d34ec3fbb74818093/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d840ff980b5f6864945af3969f98925b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d840ff980b5f6864945af3969f98925b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc0d2c55552e423db6bb3967fa935d1b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc0d2c55552e423db6bb3967fa935d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5ff6a6d52da5eec85c4f26dee590f419/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5ff6a6d52da5eec85c4f26dee590f419/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f50b095a89aedbcebb4701638a8b3590/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f50b095a89aedbcebb4701638a8b3590/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7f7363b06fe54a4179a035edf98327cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7f7363b06fe54a4179a035edf98327cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/f8dc961716df0ce703482dedc8022d0f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/f8dc961716df0ce703482dedc8022d0f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b146aab1eab7745e39d932aaaadb8a55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b146aab1eab7745e39d932aaaadb8a55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/ddca29ea36bfbb4ed7a6166c924b095b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/ddca29ea36bfbb4ed7a6166c924b095b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4e0ab22dedc579df8bb510d0d8b6e07c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4e0ab22dedc579df8bb510d0d8b6e07c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b843bcd0edb387dd4c968be002572f39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b843bcd0edb387dd4c968be002572f39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/50fb2c84530040079ecb67c9266fdb35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/50fb2c84530040079ecb67c9266fdb35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/52a18fba20883d19f7c6272af53447c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/52a18fba20883d19f7c6272af53447c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/64c0a5e47961ec73573f18749378026d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/64c0a5e47961ec73573f18749378026d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9910b92bcf177e656710885268ab985a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9910b92bcf177e656710885268ab985a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c42064f96e2fe0008d3c717bb85ead12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c42064f96e2fe0008d3c717bb85ead12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8487f9cdc80b10db88e1f899ef6b0785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8487f9cdc80b10db88e1f899ef6b0785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/33f0fbd26b99e1a4860d9516d200d3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/33f0fbd26b99e1a4860d9516d200d3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/824eafc5cb5743aefb33cc0149354753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/824eafc5cb5743aefb33cc0149354753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0713568bb46b3b66d8812d2109073f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0713568bb46b3b66d8812d2109073f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/799a4983e8512f6dfd884672f43b1eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/799a4983e8512f6dfd884672f43b1eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e7aaee341f3a314c5f50b69412000099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e7aaee341f3a314c5f50b69412000099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/16c131eacee1bf18a5cfc410fbba8b4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/16c131eacee1bf18a5cfc410fbba8b4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/290ac7fa0bf6083154a1c04e20eca8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/290ac7fa0bf6083154a1c04e20eca8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a51df921316052499946286f60620164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a51df921316052499946286f60620164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31577317f1f5323ae4051eda40af8dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31577317f1f5323ae4051eda40af8dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/08ab601ac235df98fa416226b1fddb51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/08ab601ac235df98fa416226b1fddb51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/90eb097801974c424f54b2c48b4c27d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/90eb097801974c424f54b2c48b4c27d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cd784b7c2395105634bddbae74c73156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cd784b7c2395105634bddbae74c73156/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f17b5811dd342465549583b5fc5c08db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f17b5811dd342465549583b5fc5c08db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/caee56fedefb92ddf19a25371d203ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/caee56fedefb92ddf19a25371d203ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3b7adc3db4eb99b2297aa1031209003a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3b7adc3db4eb99b2297aa1031209003a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb79ce1af9936cef4bc09fff567de609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb79ce1af9936cef4bc09fff567de609/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0e9a59e37500be4177f42b54e4d40f2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0e9a59e37500be4177f42b54e4d40f2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce55230690ea410f63ee8712b20f817d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce55230690ea410f63ee8712b20f817d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8e3ed0e3982a27dc7b498a2b8cb9ade8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8e3ed0e3982a27dc7b498a2b8cb9ade8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/486e103570f16f37a4aa9078b2fc49fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/486e103570f16f37a4aa9078b2fc49fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f86247bb33c01e1746c940d0db38bc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f86247bb33c01e1746c940d0db38bc30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/78c62a4ac74fdcefcaae2e4fd8deea20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/78c62a4ac74fdcefcaae2e4fd8deea20/AndroidManifest.xml:20:5-44
 INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
@@ -209,3 +316,207 @@ INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidM
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 		ADDED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
 		INJECTED from /home/murillo/Documentos/PDM/AcademyCalendar/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/8391d5e023e99d6a912ed518655bea9f/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/515ee985f3e9c096e32706dba19167dd/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/3785295345e9f77187eace919ea166ae/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/ffab44f2d9689882237f784ce1864064/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:29:9-63
+permission#br.edu.ifpb.academycalendar.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:32:22-76
+uses-permission#br.edu.ifpb.academycalendar.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.edu.ifpb.academycalendar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:48:27-58
+category#br.edu.ifpb.academycalendar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/652d9c1bc6542837d4d41d3927944631/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ac26dbb22f14aec23573fa44e0015ec3/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/12965ead452565b498e48088fbc78eb4/AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/murillo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/31d25f38ba854bedcee52519f57f1cea/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f5be7362bffb97005a11ecb5ff8e84e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/murillo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4c89d7179c2ed29f81725c4476b5cfdc/AndroidManifest.xml:27:13-51
