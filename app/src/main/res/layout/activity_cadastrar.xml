@@ -7,7 +7,11 @@
     tools:context=".CadastrarActivity">
 
     <EditText
+<<<<<<< HEAD
         android:id="@+id/cadastro_txt_nome"
+=======
+        android:id="@+id/cadastro_et_nome"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -23,7 +27,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
+<<<<<<< HEAD
         android:id="@+id/cadastro_txt_email"
+=======
+        android:id="@+id/cadastro_et_email"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -36,10 +44,17 @@
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_nome" />
 
     <EditText
         android:id="@+id/cadastro_txt_senha"
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_nome" />
+
+    <EditText
+        android:id="@+id/cadastro_et_senha"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -52,10 +67,17 @@
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_email" />
 
     <EditText
         android:id="@+id/cadastro_txt_senhaConf"
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_email" />
+
+    <EditText
+        android:id="@+id/cadastro_et_senhaConf"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -68,7 +90,11 @@
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_senha" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_senha" />
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
 
     <RadioGroup
         android:id="@+id/cadastro_radioGroup"
@@ -81,7 +107,11 @@
         android:layout_marginRight="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_senhaConf">
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_senhaConf">
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
 
         <RadioButton
             android:id="@+id/cadastro_radio_aluno"

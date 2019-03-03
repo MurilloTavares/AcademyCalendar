@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942756369835",
+    "firebase_url": "https://academycalendar-3fd28.firebaseio.com",
+    "project_id": "academycalendar-3fd28",
+    "storage_bucket": "academycalendar-3fd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942756369835:android:045ae69600bda64c",
+        "android_client_info": {
+          "package_name": "br.edu.ifpb.academycalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942756369835-d4t0o31d7sr7d0d5qg4fbd5ng5p2jnts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifpb.academycalendar",
+            "certificate_hash": "31d68b33fdcf67a0424c4ad1254167ecfac56840"
+          }
+        },
+        {
+          "client_id": "942756369835-qsp15ba7oguh6ahifidm8608vnbec365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjZCDLX2G-cUXhbt8FMlaEfPnV0dpPDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942756369835-qsp15ba7oguh6ahifidm8608vnbec365.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

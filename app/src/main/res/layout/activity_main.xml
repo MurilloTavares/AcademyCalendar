@@ -7,7 +7,11 @@
     tools:context=".MainActivity">
 
     <EditText
+<<<<<<< HEAD
         android:id="@+id/cadastro_txt_email"
+=======
+        android:id="@+id/cadastro_et_email"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -23,7 +27,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
+<<<<<<< HEAD
         android:id="@+id/cadastro_txt_senha"
+=======
+        android:id="@+id/cadastro_et_senha"
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -36,7 +44,11 @@
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_email" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_email" />
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
 
     <Button
         android:id="@+id/btn_login"
@@ -50,7 +62,11 @@
         android:text="Login"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/cadastro_txt_senha" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_et_senha" />
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
 
     <Button
         android:id="@+id/btn_cadastrar"

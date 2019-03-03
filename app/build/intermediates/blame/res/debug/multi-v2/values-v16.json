@@ -4,7 +4,11 @@
             "outputFile": "/home/murillo/Documentos/PDM/AcademyCalendar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c3bfbd661d9f33d44aa0486dc76d3c5d/res/values-v16/values-v16.xml",
+=======
+                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5ff6a6d52da5eec85c4f26dee590f419/res/values-v16/values-v16.xml",
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +27,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90c1f30bb8c02d2758875a0a84820ac4/res/values-v16/values-v16.xml",
+=======
+                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25c512e8eaa67672075df6c86eb3f3b4/res/values-v16/values-v16.xml",
+>>>>>>> a6eb858cb5128c5e18033a8608a1e40e0c6c94ad
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
