@@ -4,7 +4,7 @@
             "outputFile": "/home/murillo/Documentos/PDM/AcademyCalendar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/62b7abe41bca0791debcfcf4667ebad1/res/values-v23/values-v23.xml",
+                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c3bfbd661d9f33d44aa0486dc76d3c5d/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b5d87ee0d3a4ff28588b334d1f377050/res/values-v23/values-v23.xml",
+                    "source": "/home/murillo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a1a1631ae4124903f9b437ed77888db4/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
